@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders TypeSignIn screen 1`] = `null`;
+
+exports[`renders correctly across screens 1`] = `null`;
