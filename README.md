@@ -58,7 +58,7 @@ To get started with __Schovid__, follow these installation steps:
 
 1. Clone the repository:
 ```React
-git clone https://github.com/your-username/schovid.git
+git clone https://github.com/shalevg12/Schovid.git
 ```
 ```React
 cd schovid
